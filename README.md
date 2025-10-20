@@ -22,7 +22,7 @@ Una aplicación web progresiva (PWA) moderna construida con React y Vite, que fu
 
 ```bash
 # Clonar el proyecto
-git clone [url-del-repositorio]
+git clone [[url-del-repositorio](https://github.com/ErickJosafatEstradaGutierrez/ACTIVIDAD3DEDO)]
 cd pwa-app
 
 # Instalar dependencias
